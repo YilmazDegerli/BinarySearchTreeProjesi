@@ -9,4 +9,10 @@ Proje 3
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-1. Binary-Search-Tree aşamaları
+## CEVAP
+
+Binary-Search-Tree aşamaları
+
+
+
+[www.patika.dev](https://www.patika.dev/)
