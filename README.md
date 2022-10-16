@@ -1,5 +1,4 @@
-# BinarySearchTreeProjesi
-Veri Yapıları ve Algoritmalar > Binary Search Tree Projesi
+# Veri Yapilari ve Algoritmalar Kursu Bitirme Projesi
 
 ## Binary-Search-Tree Projesi
 
