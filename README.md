@@ -10,6 +10,7 @@ Proje 3
 
 ## CEVAP
 Big-O= Average case de O(logn), Worst case de O(n). Random accessi yoktur.
+
 Binary-Search-Tree ile arama islemlerine baslanirken bir root belirlenir ve her seferinde elimizdeki sayiya bu sayidan büyük mü kücük mü diye sorulur ve büyükse sag tarfa kücükse sol tarafa yazilir. Örnegin Root sayimiz "8" olsun.  En basa "8" yazilir. Sonra "7" sayisini aliriz ve sorariz "8"den büyuksen saga gec kücüksen sola gec. Kücük oldugu icin sola gecer.
                           8
                       7
