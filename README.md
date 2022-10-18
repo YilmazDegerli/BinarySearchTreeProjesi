@@ -37,4 +37,5 @@ En son olarak "2y" e ayni sorular sorulur. 2<8 sola gec, 2<7 sola gec, 2<5 sola 
                  1    6
               0    3
                  2   4
+![Proje Görseli]("C:\Users\yilma\OneDrive\Documents\VS Code\Project 1\kodluyoruzilkrepo\BinarySearchTreeProjesi.png")
 [www.patika.dev](https://www.patika.dev/)
